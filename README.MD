@@ -44,4 +44,7 @@ on the right click New File, and name it "Modelfile".
 
 Below on the right hand side you will see, terminal. 
 
-Type 'ollama show llama3.1 --modelfile'
+Type: **"ollama show llama3.1 --modelfile"**
+> This is the one that comes installed WITH ollama.
+
+
