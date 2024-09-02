@@ -10,6 +10,26 @@ Next create a Modelfile.
 **FOR THOSE WHO ARE NEW**
 I've shown how to do this here:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Install vs code, or vscode portable.
 
 https://code.visualstudio.com/download
@@ -24,4 +44,4 @@ on the right click New File, and name it "Modelfile".
 
 Below on the right hand side you will see, terminal. 
 
-Type "ollama show llama3.1 --modelfile"
+Type 'ollama show llama3.1 --modelfile'
