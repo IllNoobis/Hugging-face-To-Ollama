@@ -4,8 +4,8 @@ You need to have Ollama.
 
 
 First get the GGUF file of your desired model.
-> If your selected model does not have a GGUF file no worries go here:
-https://github.com/IllNoobis/Hugging-Face-To-Ollama-no-GUFF/blob/main/README.MD
+>( If your selected model does not have a GGUF file go to this yt video I found.:
+https://youtu.be/fnvZJU5Fj3Q?t=262)
 
 That's about it.
 
