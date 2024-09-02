@@ -21,4 +21,3 @@ Then run "ollama create nameofmodel -f Modelfile" in file location.
 That will get you the needed, model.
 
 You can use it by "ollama run nameofmodel"
-
