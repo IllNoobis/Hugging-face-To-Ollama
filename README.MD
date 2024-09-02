@@ -12,7 +12,7 @@ That's about it.
 >Jk its not totally it
 
 
-Download the above model file, edit it and replace the "FROM "yourfilelocation.gguf" " with your gguf file location, put them in **""**
+Download the above model file, edit it and replace the "FROM "yourfilelocation.gguf" " with your gguf file location, put them in **""** or it won't work.
 
 
 >The prompt templates and parameters are like the basic ones you can change them as you see fit.
