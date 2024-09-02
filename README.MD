@@ -4,7 +4,8 @@ You need to have Ollama.
 
 
 First get the GGUF file of your desired model.
-
+> If your selected model does not have a GGUF file no worries go here:
+https://github.com/IllNoobis/Hugging-Face-To-Ollama-no-GUFF/blob/main/README.MD
 
 That's about it.
 
@@ -16,8 +17,17 @@ Download the above model file, edit it and replace the "FROM "yourfilelocation.g
 
 >The prompt templates and parameters are like the basic ones you can change them as you see fit.
 
+
 Then run "ollama create nameofmodel -f Modelfile" in file location.
+
 
 That will get you the needed, model.
 
-You can use it by "ollama run nameofmodel"
+
+You can use it by **"ollama run nameofmodel"**
+
+
+to delete: **"ollama rm nameofmodel"**
+
+
+That was the basic.
