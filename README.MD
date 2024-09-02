@@ -30,4 +30,4 @@ You can use it by **"ollama run nameofmodel"**
 to delete: **"ollama rm nameofmodel"**
 
 
-That was the basic.
+That's it. All good. your done.
